@@ -1,11 +1,11 @@
 import React from 'react'
 
-let name = prompt("Enter your name: ");
-let age = prompt("Enter your Age: ");
-let city = prompt("Enter your city: ");
-let professionOrStudy = prompt("What are you currently studying or your profession?: ");
-let hobby = prompt("What is your hobby?: ");
-let goal = prompt("What is your future goal?: ")
+let name = "Aisha";
+let age =  20;
+let city = "Karachi";
+let professionOrStudy = "Web Development";
+let hobby = "designing and coding";
+let goal =  "a professional Front-End Developer";
 
 
 const Intro = () => {
