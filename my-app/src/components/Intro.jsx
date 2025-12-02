@@ -1,4 +1,5 @@
 import React from 'react'
+import './App.css';
 
 let name = "Aisha";
 let age =  20;
